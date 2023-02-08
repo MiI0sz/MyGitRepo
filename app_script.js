@@ -44,8 +44,8 @@ async function changeElemenPositionToEnd (element, endPosition) {
     element.style.setProperty("left", endPosition);
     await new Promise ( (resolve) => {
         setTimeout ( () => {
-        element.style.removeProperty("transition-duration");
-        resolve();
+            element.style.removeProperty("transition-duration");
+            resolve();
         }, 10);
     });
     return true;  
