@@ -12,4 +12,6 @@ Animation/transition consists of four steps:
 ## Technologies used in project:
 HTML, SASS, JavaScript
 ## How to run the code:
-Download the code and just open `index.html` in your browser.
+Download the code and just open `index.html` in your browser.\
+Alternatively You can just see the working app here:\
+https://mgwebdevelopment.000webhostapp.com/animation
